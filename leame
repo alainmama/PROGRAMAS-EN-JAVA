@@ -1,0 +1,5 @@
+Para ejecutar el archivo .jar generado con el ciclo de la vida
+java -cp proyecto_java-1.0.jar com.sic.App
+
+Para correr el código básico de Hola Mundo
+java App.java
